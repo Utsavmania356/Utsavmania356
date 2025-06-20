@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Utsav Mishra 👋
 
-<!--
-**Utsavmania356/Utsavmania356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE in Information Science | Acharya Institute of Technology  
+💻 Aspiring Full Stack Developer | MERN Stack Enthusiast  
+🚀 Currently working on improving DSA and building full-stack projects  
+📫 Reach me at: [utsavmishra250504@gmail.com| [LinkedIn](https://www.linkedin.com/in/utsav-mishra-498a39340)
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages**: Java, JavaScript, Python, C++
+- **Frontend**: HTML, CSS, React.js, Bootstrap
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, MySQL
+- **Tools**: Git, GitHub, Postman, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Highlight Projects
+### 1. BookBazaar - Full Stack MERN Bookstore
+- Features: Auth, CRUD, Search
+- Demo: [Live Link] | Code: [GitHub Repo]
+
+### 2. Portfolio Website
+- Built with React + Tailwind
+- [Live Site] | [Code Repo]
+
+...
+
+## 📈 GitHub Stats
+![Utsav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
