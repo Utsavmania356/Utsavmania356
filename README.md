@@ -12,16 +12,3 @@
 - **Database**: MongoDB, MySQL
 - **Tools**: Git, GitHub, Postman, VS Code
 
-## 📌 Highlight Projects
-### 1. BookBazaar - Full Stack MERN Bookstore
-- Features: Auth, CRUD, Search
-- Demo: [Live Link] | Code: [GitHub Repo]
-
-### 2. Portfolio Website
-- Built with React + Tailwind
-- [Live Site] | [Code Repo]
-
-...
-
-## 📈 GitHub Stats
-![Utsav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
